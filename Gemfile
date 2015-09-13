@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '2.2.2'
+
 gem 'front_end_builds'
 gem 'puma'
 gem 'pg'
