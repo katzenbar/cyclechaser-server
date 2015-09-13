@@ -5,6 +5,8 @@ gem 'pg'
 
 gem 'front_end_builds'
 
+gem 'puma'
+
 group :development, :test do
   gem 'byebug'
 end
