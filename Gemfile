@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.2.2'
+ruby '2.2.3'
 
 gem 'front_end_builds', :git => 'git://github.com/tedconf/front_end_builds.git'
 gem 'puma'
